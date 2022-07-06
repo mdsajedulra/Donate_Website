@@ -156,6 +156,30 @@ body {
 }
 
 /* Our Donate Plan section end */
+.whatcando {
+    display: flex;
+    margin: 20px;
+}
+
+.whatcando img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.wtd-content {
+    width: 50%;
+    margin: 20px;
+}
+
+.wtd-content {
+    width: 50%;
+    margin: 20px;
+}
+
+
+
+
+
 
 .getupdate {
     text-align: center;
